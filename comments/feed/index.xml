@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments for Firelab	</title>
-	<atom:link href="http://firelab-uoft.github.io/static-site/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>http://firelab-uoft.github.io/static-site</link>
+	<atom:link href="//firelab-uoft.github.io/static-site/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>//firelab-uoft.github.io/static-site</link>
 	<description>Firelab</description>
 	<lastBuildDate>Mon, 06 Mar 2023 16:37:22 +0000</lastBuildDate>
 	<sy:updatePeriod>

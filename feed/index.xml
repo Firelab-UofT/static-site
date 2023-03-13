@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>httpss://wordpress.org/?v=6.1.1</generator>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
 
 <image>
 	<url>https://firelab-uoft.github.io/static-site/wp-content/uploads/2023/03/Screenshot-2023-03-13-114336-150x150.png</url>
